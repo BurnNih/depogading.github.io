@@ -1,0 +1,162 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Mar 2023 13:52:49 at https://depoaplus.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://depoaplus.com/ -O1 "E:\WEBSITE\DEPO GADING" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:54:33	Error: 	"Bad Request" (400) at link https://depoaplus.com/wp-admin/admin-ajax.php? (from https://depoaplus.com/)
+13:57:57	Error: 	"Not Found" (404) at link https://depoaplus.com/wp-content/plugins/pagelayer/css/owl.video.play.png (from https://depoaplus.com/wp-content/plugins/pagelayer/css/givecss.php?give=pagelayer-frontend.css%2Cnivo-lightbox.css%2Canimate.min.css%2Cowl.carousel.min.css%2Cowl.theme.default.min.css%2Cfont-awesome5.min.css&premium&ver=1.7.3)
+13:58:00	Error: 	"Method Not Allowed" (405) at link https://depoaplus.com/xmlrpc.php (from https://depoaplus.com/distributor-gypsum-aplus/)
+13:58:01	Warning: 	Moved Permanently for https://depoaplus.com/?p=97
+13:58:01	Warning: 	File has moved from https://depoaplus.com/?p=97 to https://depoaplus.com/distributor-gypsum-aplus/
+13:58:01	Warning: 	Moved Permanently for https://depoaplus.com/?p=204
+13:58:01	Warning: 	File has moved from https://depoaplus.com/?p=204 to https://depoaplus.com/gypsum/
+13:58:01	Warning: 	Moved Permanently for https://depoaplus.com/?p=430
+13:58:01	Warning: 	File has moved from https://depoaplus.com/?p=430 to https://depoaplus.com/gypsum-board/
+13:58:29	Warning: 	Moved Permanently for https://depoaplus.com/?p=712
+13:58:29	Warning: 	File has moved from https://depoaplus.com/?p=712 to https://depoaplus.com/gypsum-compound/
+13:58:49	Warning: 	Moved Permanently for https://depoaplus.com/?p=740
+13:58:49	Warning: 	File has moved from https://depoaplus.com/?p=740 to https://depoaplus.com/accesories/
+13:58:59	Warning: 	Moved Permanently for https://depoaplus.com/?p=155
+13:58:59	Warning: 	File has moved from https://depoaplus.com/?p=155 to https://depoaplus.com/kategori-aplus-metal-system/
+13:59:09	Warning: 	Moved Permanently for https://depoaplus.com/?p=292
+13:59:09	Warning: 	File has moved from https://depoaplus.com/?p=292 to https://depoaplus.com/jual-hollow-galvanis-aplus-termurah-dan-terlengkap/
+13:59:31	Warning: 	Moved Permanently for https://depoaplus.com/?p=776
+13:59:31	Warning: 	File has moved from https://depoaplus.com/?p=776 to https://depoaplus.com/rangka-partisi-dinding/
+13:59:35	Warning: 	Moved Permanently for https://depoaplus.com/?p=787
+13:59:35	Warning: 	File has moved from https://depoaplus.com/?p=787 to https://depoaplus.com/aplus-cosmo-line/
+13:59:35	Warning: 	Moved Permanently for https://depoaplus.com/?p=207
+13:59:35	Warning: 	File has moved from https://depoaplus.com/?p=207 to https://depoaplus.com/silika-board/
+13:59:35	Warning: 	Moved Permanently for https://depoaplus.com/?p=528
+13:59:35	Warning: 	File has moved from https://depoaplus.com/?p=528 to https://depoaplus.com/aplus-silika-board/
+13:59:39	Warning: 	Moved Permanently for https://depoaplus.com/?p=538
+13:59:39	Warning: 	File has moved from https://depoaplus.com/?p=538 to https://depoaplus.com/aplus-plank/
+13:59:48	Warning: 	Moved Permanently for https://depoaplus.com/?p=1131
+13:59:48	Warning: 	File has moved from https://depoaplus.com/?p=1131 to https://depoaplus.com/truss-kategori/
+13:59:51	Warning: 	Moved Permanently for https://depoaplus.com/?p=1124
+13:59:51	Warning: 	File has moved from https://depoaplus.com/?p=1124 to https://depoaplus.com/aplus-truss-depo-aplus/
+13:59:57	Warning: 	Moved Permanently for https://depoaplus.com/?p=594
+13:59:57	Warning: 	File has moved from https://depoaplus.com/?p=594 to https://depoaplus.com/aplus-mortar-2/
+14:00:38	Warning: 	Moved Permanently for https://depoaplus.com/?p=1186
+14:00:38	Warning: 	File has moved from https://depoaplus.com/?p=1186 to https://depoaplus.com/aplus-insulation/
+14:00:38	Error: 	"Not Found" (404) at link https://depoaplus.com/aplus-bubles-series/ (from https://depoaplus.com/aplus-insulation/)
+14:00:38	Warning: 	Moved Permanently for https://depoaplus.com/?p=1177
+14:00:38	Warning: 	File has moved from https://depoaplus.com/?p=1177 to https://depoaplus.com/aplus-bubbles-series/
+14:00:48	Warning: 	Moved Permanently for https://depoaplus.com/?p=1162
+14:00:48	Warning: 	File has moved from https://depoaplus.com/?p=1162 to https://depoaplus.com/aplus-woven/
+14:00:52	Warning: 	Moved Permanently for https://depoaplus.com/?p=1209
+14:00:52	Warning: 	File has moved from https://depoaplus.com/?p=1209 to https://depoaplus.com/aplus-metal-roofing/
+14:01:03	Warning: 	Moved Permanently for https://depoaplus.com/?p=1248
+14:01:03	Warning: 	File has moved from https://depoaplus.com/?p=1248 to https://depoaplus.com/spandek-mini-aplus/
+14:01:06	Warning: 	Moved Permanently for https://depoaplus.com/?p=1236
+14:01:06	Warning: 	File has moved from https://depoaplus.com/?p=1236 to https://depoaplus.com/seng-gelombang-warna-aplus/
+14:01:06	Warning: 	Moved Permanently for https://depoaplus.com/?p=1224
+14:01:06	Warning: 	File has moved from https://depoaplus.com/?p=1224 to https://depoaplus.com/aplus-deck/
+14:01:17	Warning: 	Moved Permanently for https://depoaplus.com/?p=692
+14:01:17	Warning: 	File has moved from https://depoaplus.com/?p=692 to https://depoaplus.com/cabang/
+14:01:17	Warning: 	Moved Permanently for https://depoaplus.com/?p=27
+14:01:17	Warning: 	File has moved from https://depoaplus.com/?p=27 to https://depoaplus.com/contact/
+14:01:17	Error: 	"Bad Request" (400) at link https://depoaplus.com/wp-admin/admin-ajax.php (from https://depoaplus.com/category/artikel/)
+14:02:08	Warning: 	Moved Permanently for https://depoaplus.com/?p=455
+14:02:08	Warning: 	File has moved from https://depoaplus.com/?p=455 to https://depoaplus.com/jual-gypsum-aplus-termurah/
+14:02:08	Warning: 	Moved Permanently for https://depoaplus.com/?p=874
+14:02:08	Warning: 	File has moved from https://depoaplus.com/?p=874 to https://depoaplus.com/aplus-gypsum-tile/
+14:02:08	Warning: 	Moved Permanently for https://depoaplus.com/?p=1533
+14:02:08	Warning: 	File has moved from https://depoaplus.com/?p=1533 to https://depoaplus.com/aplus-sound-gypsum/
+14:02:16	Warning: 	Moved Permanently for https://depoaplus.com/?p=39
+14:02:16	Warning: 	File has moved from https://depoaplus.com/?p=39 to https://depoaplus.com/jual-gypsum-aplus-g-strength-premium-board/
+14:02:50	Warning: 	Moved Permanently for https://depoaplus.com/?p=952
+14:02:50	Warning: 	File has moved from https://depoaplus.com/?p=952 to https://depoaplus.com/aplus-gypsound/
+14:02:50	Warning: 	Moved Permanently for https://depoaplus.com/?p=1553
+14:02:50	Warning: 	File has moved from https://depoaplus.com/?p=1553 to https://depoaplus.com/gypsum-aplus-indogyps-water-resistance/
+14:02:52	Warning: 	Moved Permanently for https://depoaplus.com/?p=705
+14:02:52	Warning: 	File has moved from https://depoaplus.com/?p=705 to https://depoaplus.com/aplus-cornice-adhesive-20-kg/
+14:03:00	Warning: 	Moved Permanently for https://depoaplus.com/?p=719
+14:03:00	Warning: 	File has moved from https://depoaplus.com/?p=719 to https://depoaplus.com/aplus-casting-aplus-18-kg-depo-aplus/
+14:03:00	Warning: 	Moved Permanently for https://depoaplus.com/?p=735
+14:03:00	Warning: 	File has moved from https://depoaplus.com/?p=735 to https://depoaplus.com/aplus-fiber-glass-rooving/
+14:03:01	Warning: 	Moved Permanently for https://depoaplus.com/?p=751
+14:03:01	Warning: 	File has moved from https://depoaplus.com/?p=751 to https://depoaplus.com/skrup-gypsum-aplus/
+14:03:01	Warning: 	Moved Permanently for https://depoaplus.com/?p=759
+14:03:01	Warning: 	File has moved from https://depoaplus.com/?p=759 to https://depoaplus.com/glasswool-aplus-roxplus/
+14:03:01	Warning: 	Moved Permanently for https://depoaplus.com/?p=812
+14:03:01	Warning: 	File has moved from https://depoaplus.com/?p=812 to https://depoaplus.com/aplus-furring-system/
+14:03:16	Warning: 	Moved Permanently for https://depoaplus.com/?p=519
+14:03:16	Warning: 	File has moved from https://depoaplus.com/?p=519 to https://depoaplus.com/aplus-papan-silika/
+14:03:21	Warning: 	Moved Permanently for https://depoaplus.com/?p=614
+14:03:21	Warning: 	File has moved from https://depoaplus.com/?p=614 to https://depoaplus.com/alc-adhesive-220/
+14:03:23	Warning: 	Moved Permanently for https://depoaplus.com/?p=1488
+14:03:23	Warning: 	File has moved from https://depoaplus.com/?p=1488 to https://depoaplus.com/reng-aplus/
+14:03:23	Warning: 	Moved Permanently for https://depoaplus.com/?p=1077
+14:03:23	Warning: 	File has moved from https://depoaplus.com/?p=1077 to https://depoaplus.com/skim-coat-special-aplus-20-kg/
+14:03:33	Warning: 	Moved Permanently for https://depoaplus.com/?p=635
+14:03:33	Warning: 	File has moved from https://depoaplus.com/?p=635 to https://depoaplus.com/skim-coat-putih-111/
+14:03:33	Warning: 	Moved Permanently for https://depoaplus.com/?p=651
+14:03:33	Warning: 	File has moved from https://depoaplus.com/?p=651 to https://depoaplus.com/aplus-88-tile-on-adhesive/
+14:03:33	Warning: 	Moved Permanently for https://depoaplus.com/?p=623
+14:03:33	Warning: 	File has moved from https://depoaplus.com/?p=623 to https://depoaplus.com/semen-plaster-aplus-22/
+14:03:33	Warning: 	Moved Permanently for https://depoaplus.com/?p=643
+14:03:33	Warning: 	File has moved from https://depoaplus.com/?p=643 to https://depoaplus.com/plaster-acian-aplus-212/
+14:03:33	Warning: 	Moved Permanently for https://depoaplus.com/?p=677
+14:03:33	Warning: 	File has moved from https://depoaplus.com/?p=677 to https://depoaplus.com/aplus-10-perekat-keramik-lantai/
+14:03:33	Warning: 	Moved Permanently for https://depoaplus.com/?p=629
+14:03:33	Warning: 	File has moved from https://depoaplus.com/?p=629 to https://depoaplus.com/semen-acian-aplus-110/
+14:03:37	Warning: 	Moved Permanently for https://depoaplus.com/?p=669
+14:03:37	Warning: 	File has moved from https://depoaplus.com/?p=669 to https://depoaplus.com/acian-beton-aplus-112/
+14:03:37	Warning: 	Moved Permanently for https://depoaplus.com/?p=658
+14:03:37	Warning: 	File has moved from https://depoaplus.com/?p=658 to https://depoaplus.com/aplus-tile-adhesive-33/
+14:03:37	Warning: 	Moved Permanently for https://depoaplus.com/?p=1286
+14:03:37	Warning: 	File has moved from https://depoaplus.com/?p=1286 to https://depoaplus.com/metal-roof-tile-aplus/
+14:03:37	Warning: 	Moved Permanently for https://depoaplus.com/?p=1270
+14:03:37	Warning: 	File has moved from https://depoaplus.com/?p=1270 to https://depoaplus.com/spandek-aplus/
+14:03:40	Warning: 	Moved Permanently for https://depoaplus.com/?p=1277
+14:03:40	Warning: 	File has moved from https://depoaplus.com/?p=1277 to https://depoaplus.com/metal-roofing-aplus/
+14:03:43	Warning: 	Moved Permanently for https://depoaplus.com/?p=1689
+14:03:43	Warning: 	File has moved from https://depoaplus.com/?p=1689 to https://depoaplus.com/cara-menghitung-kebutuhan-rangka-baja-ringan-partisi-dinding/
+14:03:51	Warning: 	Moved Permanently for https://depoaplus.com/?p=1581
+14:03:51	Warning: 	File has moved from https://depoaplus.com/?p=1581 to https://depoaplus.com/tips-mengurangi-kecelakaan-kerja/
+14:03:54	Warning: 	Moved Permanently for https://depoaplus.com/?p=1505
+14:03:54	Warning: 	File has moved from https://depoaplus.com/?p=1505 to https://depoaplus.com/plafon-gypsum-manfaat-kelebihan-kekurangan/
+14:03:58	Warning: 	Moved Permanently for https://depoaplus.com/?p=1474
+14:03:58	Warning: 	File has moved from https://depoaplus.com/?p=1474 to https://depoaplus.com/kreasi-gypsum-untuk-dekorasi-rumah/
+14:03:58	Warning: 	Moved Permanently for https://depoaplus.com/?p=1459
+14:03:58	Warning: 	File has moved from https://depoaplus.com/?p=1459 to https://depoaplus.com/keunggulan-silika-board-aplus/
+14:04:02	Warning: 	Moved Permanently for https://depoaplus.com/?p=1451
+14:04:02	Warning: 	File has moved from https://depoaplus.com/?p=1451 to https://depoaplus.com/apa-itu-mortar/
+14:04:02	Warning: 	Moved Permanently for https://depoaplus.com/?p=1426
+14:04:02	Warning: 	File has moved from https://depoaplus.com/?p=1426 to https://depoaplus.com/standar-ukuran-gypsum-untuk-kebutuhan-tertentu/
+14:04:02	Error: 	"Not Found" (404) at link https://depoaplus.com/2021/03/31/jual-gypsum-murah/ (from https://depoaplus.com/standar-ukuran-gypsum-untuk-kebutuhan-tertentu/)
+14:04:07	Warning: 	Moved Permanently for https://depoaplus.com/?p=1416
+14:04:07	Warning: 	File has moved from https://depoaplus.com/?p=1416 to https://depoaplus.com/perhatikan-2-hal-ini-sebelum-pemasangan-gypsum/
+14:04:10	Warning: 	Moved Permanently for https://depoaplus.com/?p=1404
+14:04:10	Warning: 	File has moved from https://depoaplus.com/?p=1404 to https://depoaplus.com/cara-merawat-dinding-dan-plafon-gypsum-agar-tahan-lama/
+14:04:36	Warning: 	Moved Permanently for https://depoaplus.com/jogjakarta/?p=204
+14:04:36	Warning: 	File has moved from https://depoaplus.com/jogjakarta/?p=204 to https://depoaplus.com/jogjakarta/gypsum-aplus-g-strength/
+14:05:21	Warning: 	Moved Permanently for https://depoaplus.com/?p=1987
+14:05:21	Warning: 	File has moved from https://depoaplus.com/?p=1987 to https://depoaplus.com/artikel/
+14:05:21	Warning: 	Moved Permanently for https://depoaplus.com/?p=210
+14:05:21	Warning: 	File has moved from https://depoaplus.com/?p=210 to https://depoaplus.com/mortar/
+14:05:21	Warning: 	Moved Permanently for https://depoaplus.com/?p=1707
+14:05:21	Warning: 	File has moved from https://depoaplus.com/?p=1707 to https://depoaplus.com/jual-papan-gypsum-jayaboard/
+14:05:50	Error: 	"Forbidden" (403) at link https://scontent-sin6-1.cdninstagram.com/v/t51.29350-15/286190424_564889298374803_6176267288648416138_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=R5_1mbd_FhgAX9vCQs8&_nc_ht=scontent-sin6-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT-EWot5E6kvm16C84q1mlssuHhjDYXpR4-C_AG7YXC_QA&oe=62D30246 (from https://depoaplus.com/jogjakarta/)
+14:05:50	Error: 	"Forbidden" (403) at link https://scontent-sin6-3.cdninstagram.com/v/t51.29350-15/285128844_4845159322277790_94764163759613002_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=erWXJc5eP1EAX-x1Oec&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT-zQPRstdKEjIcFDDJwkwPM5A2FejXEOr3Yguw8lsdBaQ&oe=62D1386C (from https://depoaplus.com/jogjakarta/)
+14:05:50	Error: 	"Forbidden" (403) at link https://scontent-sin6-4.cdninstagram.com/v/t51.29350-15/285145150_948819095874146_531386277921492273_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=0K9mAmHFVfAAX-hXG7l&_nc_ht=scontent-sin6-4.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_QZ1g8n7uXVeoPmL5MtsE5m2x63KgkPFZJQq1CCyVqbg&oe=62D191C6 (from https://depoaplus.com/jogjakarta/)
+14:05:50	Warning: 	Moved Permanently for https://depoaplus.com/jogjakarta/?p=430
+14:05:50	Warning: 	File has moved from https://depoaplus.com/jogjakarta/?p=430 to https://depoaplus.com/jogjakarta/papan-gypsum-aplus/
+14:05:50	Warning: 	Moved Permanently for https://depoaplus.com/jogjakarta/?p=5
+14:05:50	Warning: 	File has moved from https://depoaplus.com/jogjakarta/?p=5 to https://depoaplus.com/jogjakarta/gypsum-aplus-9mm-jogjakarta/
+14:05:50	Warning: 	Moved Permanently for https://depoaplus.com/jogjakarta/?p=155
+14:05:50	Warning: 	File has moved from https://depoaplus.com/jogjakarta/?p=155 to https://depoaplus.com/jogjakarta/hollow-galvanis-aplus-2/
+14:05:50	Warning: 	Moved Permanently for https://depoaplus.com/jogjakarta/?p=26457
+14:05:50	Warning: 	File has moved from https://depoaplus.com/jogjakarta/?p=26457 to https://depoaplus.com/jogjakarta/aplus-truss/
+14:05:50	Warning: 	Moved Permanently for https://depoaplus.com/jogjakarta/?p=207
+14:05:50	Warning: 	File has moved from https://depoaplus.com/jogjakarta/?p=207 to https://depoaplus.com/jogjakarta/silika-board-aplus-2/
+14:05:50	Warning: 	Moved Permanently for https://depoaplus.com/jogjakarta/?p=26419
+14:05:50	Warning: 	File has moved from https://depoaplus.com/jogjakarta/?p=26419 to https://depoaplus.com/jogjakarta/kontak-depo-aplus-jogjakarta-0813-12345-123/
+14:05:50	Warning: 	Moved Permanently for https://depoaplus.com/?p=2092
+14:05:50	Warning: 	File has moved from https://depoaplus.com/?p=2092 to https://depoaplus.com/elementor-2092/
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 39 seconds : 1469 links scanned, 1388 files written (116911702 bytes overall) [96692791 bytes received at 118062 bytes/sec], 25992214 bytes transferred using HTTP compression in 270 files, ratio 18%, 7.7 requests per connection
+(9 errors, 142 warnings, 0 messages)
